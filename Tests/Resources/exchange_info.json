@@ -1,0 +1,197 @@
+{
+    "status": {
+        "timestamp": "2025-11-26T07:54:34.624Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 27,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": {
+        "24": {
+            "id": 24,
+            "name": "Kraken",
+            "slug": "kraken",
+            "algorithm": null,
+            "description": "## What Is Kraken?\n\nKraken is a US-based cryptocurrency exchange where users can buy, sell and trade various assets with relatively low commissions. Clients can also earn rewards through coin staking. The exchange has a leading level euro volume and liquidity and allows users to trade over 100 crypto assets and 7 fiat currencies, including USD, CAD, EUR, GBP, JPY, CHF and AUD, on-the-go with a web platform and mobile apps.\n\nFounded in 2011, it was one of the first few crypto exchanges offering spot trading, derivatives and index products. Today, the company offers numerous products and services, including but not limited to: spot trading, margin trading, futures, indices, stakings, OTC and an upcoming non-fungible token (NFT) marketplace. The exchange serves over 8 million traders and institutional clients, and is backed by Digital Currency Group, Blockchain Capital, Tribe Capital, Hummingbird Ventures and more.\n\n\n## Who Are the Kraken Founders?\n\nThe centralized exchange is owned by Payward Inc., founded by its CEO, crypto pioneer Jesse Powell.\n\nPowell has been working with digital currencies since 2001. He graduated from California State University with a degree in Philosophy with a concentration in Ethics & Law, founded the Verge Gallery and Studio Project, created Internet Ventures & Holdings.\n\n\n## When Did Kraken Launch?\n\nKraken was founded in 2011 and launched in September 2013, offering Bitcoin, Litecoin and euro-denominated trades initially.\n\n\n## Where Is Kraken Located?\n\nThe company is based in San Francisco, California.\n\n\n## Kraken Restricted Countries\n\nKraken is available to all U.S. residents, except those living in New York and Washington. However, Kraken Futures are not available to all U.S. residents. Currently, the platform serves millions of customers in approximately 200 countries.\n\nThe company has several restrictions for the following countries: Afghanistan, Central African Republic, Congo-Brazzaville, Eritrea, Congo-Kinshasa, Guinea-Bissau, Cuba, Lebanon, Iran, Mali, Iraq, Namibia, Libya, Somalia, North Korea, South Sudan, Syria, Sudan, Tajikistan and Yemen.\n\n\n## What Coins Are Supported on Kraken?\n\nMore than 120 coins are supported on the platform, including [BTC](https://coinmarketcap.com/currencies/bitcoin/), [ETH](https://coinmarketcap.com/currencies/ethereum/), [LTC](https://coinmarketcap.com/currencies/litecoin/), [XRP](https://coinmarketcap.com/currencies/xrp/), [ETC](https://coinmarketcap.com/currencies/ethereum-classic/), [ZEC](https://coinmarketcap.com/currencies/zcash/), [USDT](https://coinmarketcap.com/currencies/tether/) and more.\n\n\n## How Much Are Kraken Fees?\n\nFees on the platform vary across different products, such as Instant Buy, Kraken Pro, Stablecoins, Margin, Futures and NFT. For the basic Instant Buy service, the company charges a fee of 0.9% for stablecoins and 1.5% for other crypto assets, on top of fees charged for different payment methods. For Kraken Pro, it uses a maker-taker fee model where maker fees range 0.00% to 0.16% and taker fees range from 0.10% to 0.26%, depending on how often a user trades each 30-day period.\n\n\n## Is It Possible To Use Leverage or Margin Trading on Kraken?\n\nFor advanced users, Kraken Pro offers margin and futures features. The platform offers up to 5X leverage. The maximum level of leverage depends on the currency pair.",
+            "notice": "",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/24.png",
+            "countries": [],
+            "fiats": [
+                "USD",
+                "EUR",
+                "GBP",
+                "CAD",
+                "JPY",
+                "CHF",
+                "AUD"
+            ],
+            "urls": {
+                "chat": [],
+                "website": [
+                    "https://www.kraken.com"
+                ],
+                "actual": [],
+                "blog": [
+                    "https://blog.kraken.com/"
+                ],
+                "fee": [
+                    "https://www.kraken.com/en-us/help/fees"
+                ],
+                "register": [],
+                "twitter": [
+                    "https://twitter.com/krakenfx"
+                ]
+            },
+            "tags": null,
+            "type": "",
+            "porStatus": 1,
+            "porAuditStatus": 1,
+            "walletSourceStatus": 0,
+            "porSwitch": "{\"totalAssetSwitch\":1,\"auditSwitch\":1,\"walletAddressSwitch\":1,\"tokenSwitch\":1}",
+            "alertType": 2,
+            "alertLink": "",
+            "date_launched": "2011-07-28T00:00:00.000Z",
+            "is_hidden": 0,
+            "is_redistributable": 1,
+            "maker_fee": 0.02,
+            "taker_fee": 0.05,
+            "on_ramp_direct_deposit": "USD, EUR, GBP, CHF, AUD, CAD",
+            "on_ramp_card_visa_mastercard": "USD, EUR, GBP, AUD, CAD, CHF",
+            "on_ramp_google_apple_pay": "USD, EUR, GBP, AUD, CAD, CHF",
+            "on_ramp_third_party": "",
+            "on_ramp_p2p": "",
+            "off_ramp_direct_withdrawal": "",
+            "off_ramp_p2p": "",
+            "spot_volume_usd": 1279940136.643368,
+            "spot_volume_last_updated": "2025-11-26T07:50:16.799Z",
+            "weekly_visits": 1653240
+        },
+        "270": {
+            "id": 270,
+            "name": "Binance",
+            "slug": "binance",
+            "algorithm": null,
+            "description": "## What Is Binance?\n\nBinance is the world’s largest cryptocurrency exchange by user count and trading volume, with over $217 billion in daily volume across spot and futures markets as of June 2025. Serving 280+ million of users globally, Binance offers access to 500+ cryptocurrencies and more than 1,500 trading pairs. Beyond trading, Binance has evolved into a comprehensive ecosystem that includes Binance Exchange, Binance Wallet, Binance Earn, Binance Pay, Binance Square, Binance Academy, Binance Research, and more. Whether users are looking to trade, invest, learn, or build, Binance provides a secure and feature-rich platform to do so.\n\n## Who Are the Binance Founders?\n\nBinance was co-founded by Changpeng Zhao (CZ) and Yi He in 2017. CZ, a Chinese-Canadian software developer and former CEO of Binance, brought experience from previous roles at Bloomberg and Blockchain.com. Yi He, also a seasoned entrepreneur, was a co-founder of OKEX and an early executive in the digital-asset space. Since November 2023, the CEO of Binance has been Richard Teng. With over 25 years of experience in the financial services industry, Richard has held senior leadership roles at major global firms, bringing deep expertise in payments, banking, and technology to drive Binance’s continued growth and innovation.\n\n## When Did Binance Launch?\n\nBinance officially launched in June 2017 and rapidly grew into the largest cryptocurrency exchange in the world within just six months.\n\n## Binance Restricted Countries\n\nUnder Binance’s [Terms of Use](https://www.binance.com/en/terms), access to Binance services is restricted in certain jurisdictions, including the United States, Canada (Ontario), Iran, Cuba, Crimea Region, and North Korea. Access may also be limited in jurisdictions where Binance is not authorized to operate, or where regulatory restrictions apply. Always consult Binance's official terms and compliance updates to confirm eligibility in your country.\n\n## How Much Are Binance Fees?\n\nBinance offers a competitive, tiered fee structure for both spot and futures trading. For regular users, spot trading fees start at 0.1% for both maker and taker. Users can receive additional discounts by paying fees in BNB or increasing their trading volume to qualify for VIP levels. Binance also offers zero-fee trading on select BTC and FDUSD spot pairs.\n\nFor the most accurate and up-to-date fee schedule, see the official Binance [Fee Structure page](https://www.binance.com/en/fee/schedule).\n\n## Is It Possible To Use Leverage or Margin Trading on Binance?\n\nYes, Binance offers both margin trading and derivatives with flexible leverage. On Binance Margin, users can trade a wide range of cryptocurrencies with up to 10x leverage, depending on the asset and market conditions. On Binance Futures, users can trade USDT- or coin-margined perpetual contracts with leverage up to 125x on certain pairs. The platform also features cross and isolated margin modes, auto-deleveraging, and a robust risk engine to support advanced strategies.\n\nYou can review the latest margin and leverage rules on the official [Futures Trading Rules page](https://www.binance.com/en/futures/trading-rules/perpetual/leverage-margin).",
+            "notice": "",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/270.png",
+            "countries": [],
+            "fiats": [
+                "EUR",
+                " GBP",
+                " BRL",
+                " AUD",
+                " UAH",
+                " RUB",
+                " TRY",
+                " ZAR",
+                " PLN",
+                " NGN",
+                " RON"
+            ],
+            "urls": {
+                "chat": [
+                    "https://t.me/binanceexchange"
+                ],
+                "website": [
+                    "https://www.binance.com/"
+                ],
+                "actual": [
+                    "https://www.binance.com/?ref=40896146"
+                ],
+                "blog": [],
+                "fee": [
+                    "https://www.binance.com/en/fee/schedule"
+                ],
+                "register": [
+                    "https://accounts.binance.com/en/register?ref=40896146"
+                ],
+                "twitter": [
+                    "https://twitter.com/binance"
+                ]
+            },
+            "tags": null,
+            "type": "",
+            "porStatus": 1,
+            "porAuditStatus": 0,
+            "walletSourceStatus": 0,
+            "porSwitch": "{\"totalAssetSwitch\":1,\"auditSwitch\":0,\"walletAddressSwitch\":1,\"tokenSwitch\":1}",
+            "alertType": 2,
+            "alertLink": "",
+            "date_launched": "2017-07-14T00:00:00.000Z",
+            "is_hidden": 0,
+            "is_redistributable": 1,
+            "maker_fee": 0.02,
+            "taker_fee": 0.04,
+            "on_ramp_direct_deposit": "ARS, AUD, BRL, CHF, CZK, DKK, EUR, HUF, MXN, PLN, RON, SEK, TRY, UAH, UZS, ZAR",
+            "on_ramp_card_visa_mastercard": "AED, AMD, AUD, AZN, BGN, BHD, BRL, CAD, CHF, COP, CRC, CZK, DKK, DOP, ETB, GBP, GEL, GTQ, HKD, HNL, HUF, IDR, ILS, INR, ISK, JPY, KES, KWD, KYD, KZT, MNT, MXN, NZD, OMR, PAB, PEN, PHP, PLN, PYG, QAR, RON, SAR, SEK, SOS, TJS, TRY, TWD, UGX, USD, UYU, UZS, VND, XAF, ZAR",
+            "on_ramp_google_apple_pay": "AED, AMD, AUD, AZN, BGN, BHD, BRL, CHF, COP, CZK, DKK, EUR, GBP, GEL, HKD, HUF, INR, ISK, KES, KWD, KZT, MXN, NZD, OMR, PEN, PHP, PLN, QAR, RON, SAR, SEK, TRY, TWD, USD, UYU, VND, ZAR",
+            "on_ramp_third_party": "AUD, AZN, BGN, CAD, CHF, COP, CRC, CZK, DOP, GBP, GEL, HKD, HUF, INR, MAD, MXN, NAD, NZD, PEN, PHP, PLN, QAR, RON, SEK, UAH, UYU, VND, ZAR",
+            "on_ramp_p2p": "AMD, ARS, AUD, AZN, BDT, BIF, BND, BOB, BRL, BWP, CAD, CHF, CNY, COP, CZK, DOP, DZD, EGP, ETB, EUR, GBP, GEL, GHS, GMD, HKD, HNL, IDR, INR, IQD, KES, KGS, KHR, KWD, LAK, LKR, LRD, MAD, MDL, MGA, MOP, MXN, MZN, NIO, NPR, PAB, PEN, PGK, PHP, PKR, PLN, PYG, QAR, RWF, SAR, SLE, TJS, TRY, TZS, UAH, UGX, USD, UYU, UZS, VES, VND, XAF, XOF, ZAR, ZMW",
+            "off_ramp_direct_withdrawal": "ARS, AUD, BRL, CHF, CZK, DKK, EUR, HUF, MXN, PLN, RON, SEK, TRY, UAH, UZS, ZAR",
+            "off_ramp_p2p": "AMD, ARS, AUD, AZN, BDT, BIF, BND, BOB, BRL, BWP, CAD, CHF, CNY, COP, CZK, DOP, DZD, EGP, ETB, EUR, GBP, GEL, GHS, GMD, HKD, HNL, IDR, INR, IQD, KES, KGS, KHR, KWD, LAK, LKR, LRD, MAD, MDL, MGA, MOP, MXN, MZN, NIO, NPR, PAB, PEN, PHP, PKR, PLN, PYG, QAR, RWF, SAR, SLE, TJS, TRY, TZS, UAH, UGX, USD, UYU, UZS, VES, VND, XAF, XOF, ZAR, ZMW",
+            "spot_volume_usd": 16023082517.717724,
+            "spot_volume_last_updated": "2025-11-26T07:50:16.799Z",
+            "weekly_visits": 10992352
+        },
+        "1419": {
+            "id": 1419,
+            "name": "Uniswap v3 (Optimism)",
+            "slug": "uniswap-v3-optimism",
+            "algorithm": 2,
+            "description": "## What Is Uniswap (V3) (Optimism)?\n\nUniswap is the largest decentralized trading and automated market-making protocol on Ethereum. Uniswap (V3) (Optimism) is the third iteration of the decentralized cryptocurrency exchange ([DEX](https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex)). The platform introduced the concept of [concentrated liquidity](https://coinmarketcap.com/alexandria/glossary/concentrated-liquidity), which improves the liquidity providing efficiency and makes it easier for some assets to gain exposure. \n\nLiquidity providers (LPs) can also choose where and how they allocate their funds. Notably, LPs can supposedly earn higher rewards on their capital by providing liquidity with up to 4000x capital efficiency relative to Uniswap v2.\n\nAlthough Uniswap V3 is an update to previous versions, users can still trade on [Uniswap V2](https://coinmarketcap.com/exchanges/uniswap-v2/).\n\n### Who Are the Founders of Uniswap (V3) (Optimism)?\n\nThe decentralized exchange was launched by Uniswap Labs, founded by Hayden Adams.\n\nAdams was an engineer at Siemens. He obtained a bachelor’s degree in mechanical engineering from Stony Brook University in 2016. After leaving Siemens in July 2017, he created the Uniswap protocol in October 2017.\n\n### When Was Uniswap (V3) (Optimism) Launched?\n\nThe Alpha launch of Uniswap v3 on the Optimism Ethereum mainnet was announced on July 13, 2021.\n\n### Where Is Uniswap (V3) (Optimism) Located?\n\nThe company has its headquarters in New York.\n\n### Uniswap (V3) (Optimism) Restricted Countries\n\nThe platform is restricted in countries subject to US sanctions, including Syria, Iran, and Belarus.\n\n### What Coins Are Supported on Uniswap (V3) (Optimism)?\n\nUniswap (V3) (Optimism) currently has 20 cryptocurrencies, zero fiat currencies, and 115 crypto trading pairs.\n\n### How Much Are Uniswap (V3) (Optimism) Fees?\n\nThe DEX has a multi-tier fee structure that compensates liquidity providers based on the risk level of their investment. There are three fee categories – 0.05%, 0.30%, and 1%. The fee is based on the volatility of the trading pair. For instance, non-correlated pairs may attract a fee of 0.3% or 1% because they are generally riskier.\n\n### Is it Possible To Use Leverage or Margin Trading on Uniswap (V3) (Optimism)?\n\nUniswap (V3) (Optimism) is primarily a DEX for swapping assets. As such, it does not support margin trading.",
+            "notice": "",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1419.png",
+            "countries": [],
+            "fiats": [],
+            "urls": {
+                "chat": [
+                    "https://discord.gg/FCfyBSbCU5"
+                ],
+                "website": [
+                    "https://app.uniswap.org/"
+                ],
+                "actual": [],
+                "blog": [
+                    "https://uniswap.org/blog/uniswap-optimism-alpha/"
+                ],
+                "fee": [
+                    "https://help.uniswap.org/en/collections/3033942-layer-2"
+                ],
+                "register": [],
+                "twitter": [
+                    "https://twitter.com/Uniswap"
+                ]
+            },
+            "tags": [
+                {
+                    "name": "DEX",
+                    "slug": "dex",
+                    "group": "PROPERTY"
+                }
+            ],
+            "type": "",
+            "porStatus": 0,
+            "porAuditStatus": 0,
+            "walletSourceStatus": 0,
+            "porSwitch": "{\"totalAssetSwitch\":1,\"auditSwitch\":1,\"walletAddressSwitch\":1,\"tokenSwitch\":1}",
+            "alertType": 2,
+            "alertLink": "",
+            "date_launched": "2021-07-14T00:00:00.000Z",
+            "is_hidden": 0,
+            "is_redistributable": 1,
+            "maker_fee": 0,
+            "taker_fee": 0,
+            "on_ramp_direct_deposit": "",
+            "on_ramp_card_visa_mastercard": "",
+            "on_ramp_google_apple_pay": "",
+            "on_ramp_third_party": "",
+            "on_ramp_p2p": "",
+            "off_ramp_direct_withdrawal": "",
+            "off_ramp_p2p": "",
+            "spot_volume_usd": 3583739.71048388,
+            "spot_volume_last_updated": "2025-11-26T07:50:16.799Z",
+            "weekly_visits": 445775
+        }
+    }
+}

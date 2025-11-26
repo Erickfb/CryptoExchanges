@@ -1,0 +1,111 @@
+{
+    "status": {
+        "timestamp": "2025-11-26T05:34:14.654Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 19,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": [
+        {
+            "id": 1419,
+            "name": "Uniswap v3 (Optimism)",
+            "slug": "uniswap-v3-optimism",
+            "is_active": 1,
+            "status": "active",
+            "first_historical_data": "2018-04-26T00:45:00.000Z",
+            "last_historical_data": "2025-11-26T05:10:00.000Z",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1419.png",
+            "date_launched": "2021-07-14T00:00:00.000Z",
+            "spot_volume_usd": 3628216.34469642,
+            "exchangeInfo": {
+                "id": 1419,
+                "name": "Uniswap v3 (Optimism)",
+                "slug": "uniswap-v3-optimism",
+                "description": "## What Is Uniswap (V3) (Optimism)?\n\nUniswap is the largest decentralized trading and automated market-making protocol on Ethereum. Uniswap (V3) (Optimism) is the third iteration of the decentralized cryptocurrency exchange ([DEX](https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex)). The platform introduced the concept of [concentrated liquidity](https://coinmarketcap.com/alexandria/glossary/concentrated-liquidity), which improves the liquidity providing efficiency and makes it easier for some assets to gain exposure.",
+                "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1419.png",
+                "countries": ["US", "UK"],
+                "fiats": ["USD", "EUR"],
+                "urls": {
+                    "blog": ["https://uniswap.org/blog/uniswap-optimism-alpha/"],
+                    "fee": ["https://help.uniswap.org/en/collections/3033942-layer-2"],
+                    "twitter": ["https://twitter.com/Uniswap"],
+                    "chat": ["https://discord.gg/FCfyBSbCU5"],
+                    "website": ["https://app.uniswap.org/"]
+                },
+                "date_launched": "2021-07-14T00:00:00.000Z",
+                "maker_fee": 0.0005,
+                "taker_fee": 0.003,
+                "spot_volume_usd": 3628216.34469642,
+                "weekly_visits": 445775
+            }
+        },
+        {
+            "id": 24,
+            "name": "Kraken",
+            "slug": "kraken",
+            "is_active": 1,
+            "status": "active",
+            "first_historical_data": "2018-04-26T00:45:00.000Z",
+            "last_historical_data": "2025-11-26T05:10:00.000Z",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/24.png",
+            "date_launched": "2011-07-28T00:00:00.000Z",
+            "spot_volume_usd": 500000000.0,
+            "exchangeInfo": {
+                "id": 24,
+                "name": "Kraken",
+                "slug": "kraken",
+                "description": "## What Is Kraken?\n\nKraken is a US-based cryptocurrency exchange, founded in 2011. The exchange provides cryptocurrency to fiat trading, and provides price information to Bloomberg Terminal. As of 2020, Kraken is available to residents of 48 U.S. states and 176 countries, and lists 40 cryptocurrencies available for trade.",
+                "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/24.png",
+                "countries": ["US"],
+                "fiats": ["USD", "EUR", "GBP"],
+                "urls": {
+                    "blog": ["https://blog.kraken.com/"],
+                    "fee": ["https://www.kraken.com/features/fee-schedule"],
+                    "twitter": ["https://twitter.com/krakenfx"],
+                    "chat": null,
+                    "website": ["https://www.kraken.com/"]
+                },
+                "date_launched": "2011-07-28T00:00:00.000Z",
+                "maker_fee": 0.0016,
+                "taker_fee": 0.0026,
+                "spot_volume_usd": 500000000.0,
+                "weekly_visits": 1200000
+            }
+        },
+        {
+            "id": 270,
+            "name": "Binance",
+            "slug": "binance",
+            "is_active": 1,
+            "status": "active",
+            "first_historical_data": "2017-07-14T00:00:00.000Z",
+            "last_historical_data": "2025-11-26T05:10:00.000Z",
+            "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/270.png",
+            "date_launched": "2017-07-14T00:00:00.000Z",
+            "spot_volume_usd": 15000000000.0,
+            "exchangeInfo": {
+                "id": 270,
+                "name": "Binance",
+                "slug": "binance",
+                "description": "## What Is Binance?\n\nBinance is a global cryptocurrency exchange that provides a platform for trading more than 100 cryptocurrencies. Since early 2018, Binance is considered as the biggest cryptocurrency exchange in the world in terms of trading volume.",
+                "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/270.png",
+                "countries": ["Global"],
+                "fiats": ["USD", "EUR", "GBP", "BRL"],
+                "urls": {
+                    "blog": ["https://www.binance.com/en/blog"],
+                    "fee": ["https://www.binance.com/en/fee/schedule"],
+                    "twitter": ["https://twitter.com/binance"],
+                    "chat": ["https://t.me/binanceexchange"],
+                    "website": ["https://www.binance.com/"]
+                },
+                "date_launched": "2017-07-14T00:00:00.000Z",
+                "maker_fee": 0.001,
+                "taker_fee": 0.001,
+                "spot_volume_usd": 15000000000.0,
+                "weekly_visits": 5000000
+            }
+        }
+    ]
+}
