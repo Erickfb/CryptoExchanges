@@ -11,5 +11,5 @@ import Foundation
 // 3. Build the project
 
 extension Config {
-    static let localAPIKey: String? = "931eb4caf75342b795eb76573f5cebf7"
+    static let localAPIKey: String? = ""
 }
