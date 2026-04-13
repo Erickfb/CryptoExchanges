@@ -1,6 +1,7 @@
 node_modules/
 .env
 .build
+Config.Generated.swift
 ## Pods
 **/Pods/
 # Xcodegen generated
