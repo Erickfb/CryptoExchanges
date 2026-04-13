@@ -40,7 +40,7 @@ brew install xcodegen
 ./setup.sh
 ```
 
-O script `setup.sh` irá:
+O script `bash ./setup.sh` irá:
 - Criar o arquivo `.env` caso não exista
 - Bloquear e exibir instruções caso `COINMARKETCAP_API_KEY` esteja vazia
 - Executar `xcodegen generate` automaticamente após validar a key
