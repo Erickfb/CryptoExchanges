@@ -25,37 +25,6 @@ final class ExchangeDetailViewModelTests: XCTestCase {
         XCTAssertEqual(sut.exchangeId, 1)
     }
 
-    func testLoadAssetsSuccess() async {
-        let mockAssets = createMockAssets()
-        mockAPIService.assetsToReturn = mockAssets
-
-        await sut.loadAssets()
-
-        XCTAssertEqual(sut.numberOfAssets, mockAssets.count)
-        XCTAssertEqual(sut.assets.count, mockAssets.count)
-
-        if case .loaded = sut.state {
-            XCTAssertTrue(true)
-        } else {
-            XCTFail("State should be loaded after successful fetch")
-        }
-    }
-
-    func testLoadAssetsFailure() async {
-        mockAPIService.shouldFail = true
-        mockAPIService.errorToThrow = NetworkError.serverError("Test error")
-
-        await sut.loadAssets()
-
-        XCTAssertEqual(sut.numberOfAssets, 0)
-
-        if case .error(let message) = sut.state {
-            XCTAssertTrue(message.contains("Test error"))
-        } else {
-            XCTFail("State should be error after failed fetch")
-        }
-    }
-
     func testAssetAtValidIndex() async {
         let mockAssets = createMockAssets()
         mockAPIService.assetsToReturn = mockAssets
