@@ -37,7 +37,7 @@ cd CryptoExchanges
 brew install xcodegen
 
 # Execute o setup (valida .env, exige a key e roda o xcodegen)
-./setup.sh
+bash ./setup.sh
 ```
 
 O script `bash ./setup.sh` irá:
