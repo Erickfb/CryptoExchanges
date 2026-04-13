@@ -1,7 +1,0 @@
-// Configuration settings file format documentation can be found at:
-// https://help.apple.com/xcode/#/dev745c5c974
-
-// CoinMarketCap API Key
-// Get your API key from: https://pro.coinmarketcap.com/account
-// Copy this file to Config.xcconfig and add your API key
-COINMARKETCAP_API_KEY = YOUR_API_KEY_HERE

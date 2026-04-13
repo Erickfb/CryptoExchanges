@@ -31,25 +31,30 @@ git clone <repository-url>
 cd CryptoExchanges
 ```
 
-### 2. Configure a API Key
-```bash
-cp Sources/App/Config.local.swift.example Sources/App/Config.local.swift
-```
-Edite o arquivo e substitua `YOUR_API_KEY_HERE` pela sua chave.
-
-**Obter API Key:**
-1. Crie uma conta em [CoinMarketCap Pro](https://pro.coinmarketcap.com/account)
-2. Copie sua API key
-3. Cole no arquivo `Config.local.swift`
-
-### 3. Gere o projeto e execute
+### 2. Configure a API Key e gere o projeto
 ```bash
 # Instale o XcodeGen (se necessário)
 brew install xcodegen
 
-# Gere o projeto Xcode
-xcodegen
+# Execute o setup (valida .env, exige a key e roda o xcodegen)
+./setup.sh
+```
 
+O script `setup.sh` irá:
+- Criar o arquivo `.env` caso não exista
+- Bloquear e exibir instruções caso `COINMARKETCAP_API_KEY` esteja vazia
+- Executar `xcodegen generate` automaticamente após validar a key
+
+**Obter API Key:**
+1. Crie uma conta em [CoinMarketCap Pro](https://pro.coinmarketcap.com/account)
+2. Copie sua API key
+3. Edite o arquivo `.env` na raiz do projeto:
+   ```
+   COINMARKETCAP_API_KEY=sua_chave_aqui
+   ```
+4. Execute `bash ./setup.sh` novamente
+
+```bash
 # Abra o projeto
 open CryptoExchanges.xcodeproj
 ```

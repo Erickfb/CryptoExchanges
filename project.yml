@@ -10,6 +10,8 @@ targets:
     platform: iOS
     sources:
       - Sources
+      - path: Sources/App/Config.Generated.swift
+        optional: true
     resources:
       - Sources/Resources/*.json
     info:
@@ -39,6 +41,12 @@ targets:
           - UIInterfaceOrientationLandscapeRight
         NSAppTransportSecurity:
           NSAllowsArbitraryLoads: true
+    preBuildScripts:
+      - name: Load .env
+        shell: /bin/bash
+        script: "${SRCROOT}/scripts/load_env.sh"
+        outputFiles:
+          - $(SRCROOT)/Sources/App/Config.Generated.swift
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.cryptoexchanges.app
